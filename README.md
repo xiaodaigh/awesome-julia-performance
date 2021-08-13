@@ -14,7 +14,8 @@ Packages and other resourced designed to make things run fast in Julia #julialan
  
 
 ## Other resources
-
- | https://symbolics.juliasymbolics.org/dev/tutorials/auto_parallel/ | Tutorial: improve codegen tool | 
- | [AutoPreallocation.jl](https://github.com/oxinabox/AutoPreallocation.jl) |  Similar to PreallocationTools.jl. "fun but more of an experiment" |
+| Resource | Comment |
+| ------- | ------- |
+| https://symbolics.juliasymbolics.org/dev/tutorials/auto_parallel/ | Tutorial: improve codegen tool | 
+| [AutoPreallocation.jl](https://github.com/oxinabox/AutoPreallocation.jl) |  Similar to PreallocationTools.jl. "fun but more of an experiment" |
  
