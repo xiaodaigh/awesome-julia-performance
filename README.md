@@ -1,8 +1,8 @@
 # awesome-julia-performance
 
-## Main list
-Packages and other resourced designed to make things run fast in Julia #julialang
+Packages and other resources designed to make things run fast in Julia
 
+## Main list
 | Package | Comment |
 | ------- | ------- |
 | [ThreadPools.jl](https://github.com/tro3/ThreadPools.jl) | Background threads and queued threads  |
